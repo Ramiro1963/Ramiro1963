@@ -10,7 +10,7 @@
   As a Junior Data Analyst I would like to help you in any project that has to do with these subjects and keep diving in learning on Data Analytics, Python and R code.
 
   
-- 📫 How to reach me:
+- 📫 How can you contact me:
 - email:ramirogonzgut@gmail.com
 - Mobile Phone: +34601075133
 
