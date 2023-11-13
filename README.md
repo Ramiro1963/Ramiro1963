@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @Ramiro1963 and I'm currently learning ZTM The Complete Web Developer. I have a slight knowledge about Python. Step by step I would like to broaden these subjects. One of my dreams is to be able to collaborate on a project being an useful participant. 
+- 👋 Hi, I’m @Ramiro1963 and I'm in an early retirement status but I've been devoted this free time to learn about different topics that I always wanted to know. So far I've completed some elearning courses as:
+- Google Data Analytics (Coursera).
+- ZTM The Complete Web Developer in 2022 (Udemy).
+- The Excel Bootcamp: Zero to Mastery (Udemy).
+- The Ultimate MySQL Bootcamp (Udemy)
+- Python Master Course (Udemy)
+- Complete Python Developer (Udemy)
+- Off-Gride  Photovoltaic System (Udemy)
+
+  One of my dreams is to be able to collaborate on projects being an useful assisant.
+
+  
 - 📫 How to reach me:
 - email:ramirogonzgut@gmail.com
 - Mobile Phone: +34601075133
