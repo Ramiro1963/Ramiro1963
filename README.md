@@ -7,7 +7,7 @@
 - Complete Python Developer (Udemy)
 - Off-Gride  Photovoltaic System (Udemy)
 
-  One of my dreams is to be able to collaborate on projects being an useful assisant.
+  As a Junior Data Analyst I would like to help you in any project that has to do with these subjects and keep diving in learning on Data Analytics, Python and R code.
 
   
 - 📫 How to reach me:
